@@ -5,3 +5,10 @@ This will be a personal intro website for CMPA-3301. It includes information abo
 ## Live Website
 
 [Visit my website](https://cleonide.github.io)
+
+## Technologies Used
+
+- HTML
+- CSS
+- GitHub
+- GitHub Desktop
