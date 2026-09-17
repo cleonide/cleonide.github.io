@@ -1,0 +1,35 @@
+body {
+    background-color: #F2E8CF;
+    color: #386641;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+h1 {
+    color: #715c43;
+}
+
+h2 {
+    color: #0e0c05;
+}
+
+p {
+    color: #dacda4;
+    line-height: 1.6;
+}
+
+li {
+    color: ##a89671;
+}
+
+a {
+    color: ##8a7758;
+}
+div{
+    width: 300px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solic black;
+    padding: 20px;
+    marging: 30px;
+}
